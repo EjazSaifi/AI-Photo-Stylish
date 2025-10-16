@@ -1,0 +1,5 @@
+{
+  "name": "AI Photo Stylist",
+  "description": "An advanced AI photo generation assistant designed to transform uploaded user photos into high-quality, trend-relevant edited images while preserving the person’s facial identity and core features. Upload a photo, provide a keyword, and get a stunning new image with captions and hashtag ideas.",
+  "requestFramePermissions": []
+}
